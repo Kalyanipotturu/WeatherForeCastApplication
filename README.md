@@ -1,1 +1,2 @@
 # WeatherForeCastApplication
+This is a Weather forecast web application made with HTML, CSS, JavaScript and Weather API. This website shows the current weather information and another 6 days weather information of the place we want. The default location of weather is Delhi. We can search our place by entering the city name of our place in the search box. If the place found, it shows the weather information otherwise it shows the default location weather Information.
